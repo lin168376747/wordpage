@@ -1,1 +1,2 @@
-＃万维网。林66.ml
+# lin66.ml
+# www.lin66.ml
